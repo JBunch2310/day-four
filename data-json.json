@@ -1,0 +1,21 @@
+[{
+        "Kitchen":1,
+        "Bedroom":3,
+        "Color":"white",
+        "Pool":"true",
+        "Pets":"Dog"
+},
+{
+    "Kitchen":2,
+    "Bedroom":4,
+    "Color":"multicolor",
+    "Pool":"true",
+    "Pets":"Dog"
+},
+{
+    "Kitchen":2,
+    "Bedroom":6,
+    "Color":"purple",
+    "Pool":"true",
+    "Pets":"Dog"   
+}]
